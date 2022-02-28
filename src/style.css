@@ -1,0 +1,65 @@
+body {
+  background-image: linear-gradient(lightblue, pink, lightgrey);
+  height: 95vh;
+}
+.heading1 {
+  font-family: "Times New Roman";
+  text-shadow: 3px 3px 4px aqua;
+  text-align: center;
+}
+.fun {
+  background-color: skyblue;
+  height: 65px;
+  width: 255px;
+  border: 3px solid black;
+  border-radius: 35px;
+  left: 31%;
+  top: 18%;
+  position: absolute;
+}
+.cls {
+  background-color: skyblue;
+  height: 65px;
+  width: 255px;
+  border: 3px solid black;
+  border-radius: 35px;
+  left: 52%;
+  top: 18%;
+  position: absolute;
+}
+.box1 {
+  background-color: aqua;
+  width: 500px;
+  height: 270px;
+  padding-top: 20px;
+  border: 2px solid black;
+  border-radius: 30px;
+  left: 10%;
+  top: 45%;
+  position: absolute;
+  text-align: center;
+}
+.box2 {
+  background-color: rgb(184, 86, 241);
+  width: 500px;
+  height: 270px;
+  padding-top: 20px;
+  border: 2px solid black;
+  border-radius: 30px;
+  left: 57%;
+  top: 45%;
+  position: absolute;
+  text-align: center;
+}
+.heading2 {
+  color: black;
+  font-size: 30px;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+.ext {
+  color: black;
+  font-family: "Times New Roman", Times, serif;
+}
+button:hover {
+  background-color: aqua;
+}
